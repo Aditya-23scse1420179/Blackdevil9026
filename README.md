@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blackdevil9026
+- 👋 Hi, I’m @Aditya pratap singh
 - 👀 I’m interested in ...galgotias university
 - 🌱 I’m currently learning ...btech cse 
 - 💞️ I’m looking to collaborate on ...github projrct
